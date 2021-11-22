@@ -2,6 +2,11 @@
 
 This script should work on any Debian based OS. This also includes Ubuntu. It might even work on other distributions.
 
+**Install CURL first**
+```
+apt-get install curl -y
+```
+
 ### Run the installer with the following command
 ```
 bash <( curl -sSL https://raw.githubusercontent.com/unixxio/os-info/main/os-info.sh )
