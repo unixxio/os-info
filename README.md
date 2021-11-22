@@ -1,4 +1,5 @@
 # OS Info
+**Last Update**: November 22, 2021
 
 This script should work on any Debian based OS. This also includes Ubuntu. It might even work on other distributions.
 
