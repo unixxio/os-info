@@ -8,7 +8,7 @@ bash <( curl -sSL https://raw.githubusercontent.com/unixxio/os-info/main/os-info
 ```
 
 **Requirements**
-* Execute as root or with sudo
+* Execute as root or user with sudo privileges
 
 **What does it show**
 * Your logged in username
