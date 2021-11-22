@@ -19,7 +19,7 @@ bash <( curl -sSL https://raw.githubusercontent.com/unixxio/os-info/main/os-info
 * Linux version
 * Kernel version
 * Uptime
-* Last reboot
+* Last reboot (if any)
 * Memory usage
 * Disk usage
 * CPU usage
